@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/install
+
+Name: youbot_diagnostic_aggregator
+Description: Description of youbot_diagnostic_aggregator
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hp/c_w/install/lib 
+Requires: diagnostic_aggregator

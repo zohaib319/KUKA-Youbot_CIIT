@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: youbot_dashboard
+Description: Description of youbot_dashboard
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: 

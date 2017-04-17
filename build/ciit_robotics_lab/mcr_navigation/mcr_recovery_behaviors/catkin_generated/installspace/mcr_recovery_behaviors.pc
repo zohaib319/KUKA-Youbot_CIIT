@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/install
+
+Name: mcr_recovery_behaviors
+Description: Description of mcr_recovery_behaviors
+Version: 0.0.1
+Cflags: -I/home/hp/c_w/install/include
+Libs: -L/home/hp/c_w/install/lib -lforce_field_recovery
+Requires: costmap_2d nav_core pluginlib roscpp tf

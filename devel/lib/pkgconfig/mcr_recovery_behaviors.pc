@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: mcr_recovery_behaviors
+Description: Description of mcr_recovery_behaviors
+Version: 0.0.1
+Cflags: -I/home/hp/c_w/src/ciit_robotics_lab/mcr_navigation/mcr_recovery_behaviors/ros/include
+Libs: -L/home/hp/c_w/devel/lib -lforce_field_recovery
+Requires: costmap_2d nav_core pluginlib roscpp tf

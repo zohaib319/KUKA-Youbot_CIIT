@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: mir_teleop
+Description: Description of mir_teleop
+Version: 0.0.1
+Cflags: -I/home/hp/c_w/devel/include
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: brics_actuator geometry_msgs joy mcr_teleop mir_default_robot_config mir_hardware_config moveit_msgs sensor_msgs std_srvs mcr_manipulation_msgs

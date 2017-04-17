@@ -1,0 +1,22 @@
+global_costmap:
+  global_frame: /map                #default : odom
+  inflation_radius: 0.46            #default : 0.55
+  robot_base_frame: base_footprint  #default : "base_link"
+  update_frequency: 0.3             #default : 5.0
+  publish_frequency: 0.3            #default : 0.0
+  static_map: true                  #default : true
+  footprint_padding: 0.01            #default : 0.01
+#  plugins:
+#    -
+#      name: static_layer
+#      type: "costmap_2d::StaticLayer"
+#    -
+#      name: obstacle_layer
+#      type: "costmap_2d::ObstacleLayer"
+#    -
+#      name: simple_layer
+#      #type: "simple_layer_namespace::SimpleLayer"
+#      type: "duct_tape_layer_namespace::SimpleLayer"
+#    -
+#      name: inflation_layer
+#      type: "costmap_2d::InflationLayer"

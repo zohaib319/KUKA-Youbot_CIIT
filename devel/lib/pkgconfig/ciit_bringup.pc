@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: ciit_bringup
+Description: Description of ciit_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: 

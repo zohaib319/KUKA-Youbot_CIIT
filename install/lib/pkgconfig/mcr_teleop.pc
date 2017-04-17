@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/install
+
+Name: mcr_teleop
+Description: Description of mcr_teleop
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/hp/c_w/install/lib 
+Requires: geometry_msgs

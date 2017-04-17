@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: mir_2dslam
+Description: Description of mir_2dslam
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: gmapping cob_scan_unifier

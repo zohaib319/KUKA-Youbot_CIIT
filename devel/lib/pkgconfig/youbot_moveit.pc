@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: youbot_moveit
+Description: Description of youbot_moveit
+Version: 0.2.0
+Cflags: 
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: 

@@ -1,0 +1,6 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~arm_cartesian_reference_link" : \b [str] Reference link which will be used by the arm Cartesian controller min: , default: /base_link, max: 
+

@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: mir_2dnav
+Description: Description of mir_2dnav
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/install
+
+Name: ciit_bringup_sim
+Description: Description of ciit_bringup_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hp/c_w/install/lib 
+Requires: 

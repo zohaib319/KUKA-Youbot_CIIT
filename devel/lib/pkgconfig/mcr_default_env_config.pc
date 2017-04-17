@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/devel
+
+Name: mcr_default_env_config
+Description: Description of mcr_default_env_config
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hp/c_w/devel/lib 
+Requires: 

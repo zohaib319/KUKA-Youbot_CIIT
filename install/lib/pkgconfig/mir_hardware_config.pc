@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/install
+
+Name: mir_hardware_config
+Description: Description of mir_hardware_config
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/hp/c_w/install/lib 
+Requires: mcr_description mir_calibration_data mir_description youbot_description

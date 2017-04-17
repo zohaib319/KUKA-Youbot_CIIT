@@ -1,0 +1,8 @@
+prefix=/home/hp/c_w/install
+
+Name: youbot_driver
+Description: Description of youbot_driver
+Version: 1.1.0
+Cflags: -I/home/hp/c_w/install/include -I/usr/include
+Libs: -L/home/hp/c_w/install/lib -lYouBotDriver -lsoem -lrt -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libboost_date_time.so -l:/usr/lib/x86_64-linux-gnu/libboost_filesystem.so -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libboost_regex.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so
+Requires: roscpp rosconsole
